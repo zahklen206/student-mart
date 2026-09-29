@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/.git
+/storage/framework/views/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+.env
